@@ -1,2 +1,2 @@
 # Practice
-Create, pull , push repository
+Create, pull , push, repository
